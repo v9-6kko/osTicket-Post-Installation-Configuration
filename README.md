@@ -46,8 +46,6 @@ First things first: go to your osTicket agent login. The url should be http://lo
 <p>
 Once logged in, you will be greeted by this screen. Take note of all the options available to you here, and don’t hesitate to familiarize yourself with each of them.
 
-Once you have clicked through everything, look to the top right of the screen. You will see something labeled “Agent Panel” click on it and you will be swapped to the Admin Panel. This is important for what we will be going over in this guide, but also for general use of osTicket. The admin panel is for supervisors, and the agent panel is for employees.
-
 </p>
 <br />
 
