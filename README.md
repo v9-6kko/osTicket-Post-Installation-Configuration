@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First things first: go to your osTicket agent login. The url should be http://localhost/osTicket/scp/login.php. You will need to use the username and password you created in the installation process.
+First things first: go to your osTicket agent login. The url should be http://localhost/osTicket/scp/login.php You will need to use the username and password you created in the installation process.
 
 </p>
 <br />
