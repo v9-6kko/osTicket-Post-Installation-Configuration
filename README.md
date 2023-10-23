@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://files.catbox.moe/w17ih2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First things first: go to your osTicket agent login. The url should be http://localhost/osTicket/scp/login.php You will need to use the username and password you created in the installation process.
